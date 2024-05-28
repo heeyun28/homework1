@@ -1,6 +1,6 @@
 ## 조선공학과 2001247 문희윤 
 
-## heeyun01_subscriber
+##  서브스크라이버 노드 heeyun01_subscriber
 
 import rclpy
 from rclpy.node import Node
@@ -36,7 +36,7 @@ def main(args=None):
 if __name__ == '__main__':
     main()
 
-## heeyun01_pubisher
+## 퍼블리셔 노드 heeyun01_pubisher
 
 import rclpy
 from rclpy.node import Node
